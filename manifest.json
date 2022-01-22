@@ -1,0 +1,38 @@
+{
+  "name": "Nadyn Shop",
+  "short_name": "Nadyn Shop",
+  "start_url": "https://www.nadynshop.com",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "description": "Toko Online Nadyn Shop",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-eNkvXT2AjT0/XtBvnAFkzaI/AAAAAAAABD4/448WVkXM7mMXoBin8xobsgcFam57duhNgCLcBGAsYHQ/s48/Logo%2BNadyn.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-eNkvXT2AjT0/XtBvnAFkzaI/AAAAAAAABD4/448WVkXM7mMXoBin8xobsgcFam57duhNgCLcBGAsYHQ/s72/Logo%2BNadyn.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-eNkvXT2AjT0/XtBvnAFkzaI/AAAAAAAABD4/448WVkXM7mMXoBin8xobsgcFam57duhNgCLcBGAsYHQ/s96/Logo%2BNadyn.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-eNkvXT2AjT0/XtBvnAFkzaI/AAAAAAAABD4/448WVkXM7mMXoBin8xobsgcFam57duhNgCLcBGAsYHQ/s144/Logo%2BNadyn.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-eNkvXT2AjT0/XtBvnAFkzaI/AAAAAAAABD4/448WVkXM7mMXoBin8xobsgcFam57duhNgCLcBGAsYHQ/s168/Logo%2BNadyn.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-eNkvXT2AjT0/XtBvnAFkzaI/AAAAAAAABD4/448WVkXM7mMXoBin8xobsgcFam57duhNgCLcBGAsYHQ/s192/Logo%2BNadyn.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-eNkvXT2AjT0/XtBvnAFkzaI/AAAAAAAABD4/448WVkXM7mMXoBin8xobsgcFam57duhNgCLcBGAsYHQ/s512/Logo%2BNadyn.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
